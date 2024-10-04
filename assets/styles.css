@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.header {
+    background-color: #ccc;
+    padding: 10px;
+}
+.header .logo {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.hero {
+    background-color: #1e90ff;
+    color: white;
+    padding: 50px 0;
+    text-align: center;
+}
+.hero h1 {
+    font-size: 3em;
+}
+.hero p {
+    font-size: 1.5em;
+}
+.btn-eventos {
+    margin-top: 20px;
+}
+.login-button {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
